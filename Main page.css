@@ -1,0 +1,182 @@
+@charset "utf-8";
+
+
+body {
+    background-image: url(background3.jpg);
+    width: 0px;
+    height: 0px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h2 {
+	text-indent: 18px;
+	color: #FFFFFF;
+
+	width: 721px;
+	margin-left: 786px;
+	height: 85px;
+	font-size: 44px;
+	margin-right: -29px;
+	padding-top: 25px;
+	padding-left: 0px;
+	
+}
+
+
+h6 {
+	text-indent: 19px;
+	color: #FFFFFF;
+	-webkit-box-shadow: 0px 1px 59px 10px #000000;
+	box-shadow: 0px 1px 59px 10px #000000;
+	margin-top: 1px;
+	margin-bottom: 208px;
+	margin-left: 958px;
+	font-size: 32px;
+	height: 0px;
+	line-height: 39px;
+	margin-right: -1027px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	text-align: justify;
+	width: 888px;
+}
+footer button {
+	width: 185px;
+	height: 80px;
+	margin-top: 179px;
+	margin-left: 1408px;
+	margin-right: -29px;
+	margin-bottom: -56px;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(12,147,141,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(12,147,141,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(12,147,141,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(12,147,141,1.00) 100.00%);
+	background-size: cover;
+	text-align: center;
+	font-size: 19px;
+	-webkit-box-shadow: inset 6px 7px 46px -2px #000000;
+	box-shadow: inset 6px 7px 46px -2px #000000;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: #FFFFFF;
+}
+
+p {
+    color: #FFFFFF;
+    text-shadow: 0px 0px #848484;
+}
+
+
+
+h1 {
+	color: #FFFFFF;
+	text-decoration: underline;
+	text-align: left;
+	font-variant: normal;
+	text-transform: none;
+	list-style-type: georgian;
+	line-height: 94px;
+	text-indent: 157px;
+	list-style-position: outside;
+	width: 1998px;
+	background-position: 18% -8%;
+	background-attachment: fixed;
+	background-clip: border-box;
+	background-size: cover;
+	font-style: italic;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	height: 107px;
+	background-color: #FFFFFF;
+	margin-top: 3px;
+	margin-bottom: 123px;
+	margin-left: 1px;
+}
+div {
+	background-size: cover;
+	background-position: 79% 0%;
+	background-clip: content-box;
+	background-attachment: scroll;
+	margin-left: -16px;
+}
+
+
+
+
+h3 {
+    line-height: 47px;
+    text-indent: -2px;
+    font-style: normal;
+    font-size: 23px;
+    color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+h4 {
+    text-align: left;
+    text-indent: 3px;
+    line-height: 33px;
+    font-size: 20px;
+    font-style: normal;
+    text-decoration: none;
+    text-shadow: -1px 0px #AE09D8;
+    background-size: cover;
+    background-clip: content-box;
+    background-attachment: scroll;
+    -webkit-box-shadow: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 0px 0px;
+    color: #FFFFFF;
+}
+
+
+h5 {
+    display: list-item;
+    float: left;
+    text-align: left;
+    background-position: 2% 0%;
+    line-height: 0px;
+    text-indent: 67px;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+li {
+    color: #FFFFFF;
+    font-size: 9px;
+}
+img {
+	background-position: 0% 0%;
+	width: 99px;
+	margin-left: -133px;
+	margin-bottom: -31px;
+	margin-top: 4px;
+	margin-right: 28px;
+	font-size: 1px;
+}
+
+h1 a button {
+	width: 156px;
+	height: 49px;
+	margin-top: -86px;
+	margin-left: -140px;
+	margin-right: 151px;
+	margin-bottom: 157px;
+	background-color: #000000;
+	color: #FFFFFF;
+	background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 55.55%,rgba(255,255,255,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 55.55%,rgba(255,255,255,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 55.55%,rgba(255,255,255,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 55.55%,rgba(255,255,255,1.00) 100%);
+	background-position: -1% 0%;
+	-webkit-box-shadow: inset 0px -1px 5px 1px;
+	box-shadow: inset 0px -1px 5px 1px;
+	text-decoration: none;
+	font-size: 23px;
+	top: -2px;
+	float: right;
+	opacity: 1;
+	text-align: center;
+}
+
+/* CSS Document */
